@@ -66,8 +66,8 @@ body {
   border: 1px solid lightgrey;
 }
 .nav-bar > img {
-  height: 50px;
-  width: 50px;
+  height: 45px;
+  width: 45px;
 }
 
 .welcome {
@@ -113,12 +113,12 @@ body {
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.project>h6{
-    font-size: 20px;
-    margin-bottom: 5px;
+.project > h6 {
+  font-size: 20px;
+  margin-bottom: 5px;
 }
-.project>p{
-    font-size: 15px;
+.project > p {
+  font-size: 15px;
 }
 .project {
   background-color: white;
